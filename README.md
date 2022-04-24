@@ -1,7 +1,6 @@
 Hi, I’m Shaik Anjum Parveen <br>
 I’m interested in learning new technologies and gain my knowledge<br>
 I’m currently learning AWS and Devops<br> 
-I’m looking to collaborate on where I can gain further knowledge on various skills<br>
 
 
 <!---
